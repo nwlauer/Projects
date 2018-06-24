@@ -8,14 +8,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-# Credit to Others Doing similar projects
+### Credit to Others Doing similar projects
 
   [Mikey77 Instructables](http://www.instructables.com/member/mikey77/)
+  [Whitesides Research Group](http://gmwgroup.harvard.edu/research/index.php?page=23)
+  [Umburry](https://umburry.com/)
   
-
+### Goal and Focus
+  This project revolves mostly around the fabrication of a soft robotic system out of a flexible filament that requires no post       processing after printing.
 - Bulleted
 - List
+### Progress
+![Messy Robots](https://www.flickr.com/photos/148557730@N02/shares/31pw5r)
 
+#### 
 1. Numbered
 2. List
 
