@@ -10,9 +10,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Credit to Others Doing similar projects
 
-  [Mikey77 Instructables](http://www.instructables.com/member/mikey77/)
-  [Whitesides Research Group](http://gmwgroup.harvard.edu/research/index.php?page=23)
-  [Umburry](https://umburry.com/)
+ / [Mikey77 Instructables](http://www.instructables.com/member/mikey77/)
+ / [Whitesides Research Group](http://gmwgroup.harvard.edu/research/index.php?page=23)
+ / [Umburry](https://umburry.com/)
   
 ### Goal and Focus
   This project revolves mostly around the fabrication of a soft robotic system out of a flexible filament that requires no post       processing after printing.
