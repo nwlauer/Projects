@@ -1,12 +1,12 @@
 
-##Home
+## Home
 #This is the repository for my bigger projects as well as a hub to all my other blogs and social media. 
-## Social Media
+# Social Media
 Blog for my smaller day to day work and tinkering
 Instagram
 Thingiverse
 Linked In
-## Projects
+# Projects
 #AMAZ ARM
 #Paper Microfluidics
 #3D Printing Soft Robotics
