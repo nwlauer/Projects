@@ -1,5 +1,5 @@
 ### 3D Printing Soft Robotics
-![Gif](https://i.imgur.com/EDeQHGI.gif)
+![Gif](http://imgur.com/EDeQHGI)
 
 ### Credit to Others Doing similar projects
 
