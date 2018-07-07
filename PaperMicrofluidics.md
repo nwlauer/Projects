@@ -12,6 +12,8 @@ Outputs
 
 ## Process Instructable
 
+[Wax Penetration Diagram](https://i.imgur.com/1nKXJLzs.jpg)
+
 The Process that we found effective is outlined [here](https://www.instructables.com/id/Wax-Paper-Microfluidics/) on instructables.
 
 
