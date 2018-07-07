@@ -1,6 +1,6 @@
 Paper Microfluidics
 =====================
-![Paper Microfluidic Picture](https://imgur.com/J7JiPra.jpg)
+![Paper Microfluidic Picture](https://i.imgur.com/aXYnpVFs.jpg)
 Goals and Focus
 =================
 
@@ -9,19 +9,16 @@ The goal this project was to replicate and improve upon the process for makine p
 Outputs
 =============
 
-## Process
+## Process Instructable
 
 The Process that we found effective is outlined [here](https://www.instructables.com/id/Wax-Paper-Microfluidics/) on instructables.
 
-## Inscape Design Guidelines
-
-Inscape designs and guidlines
 
 ## Modifications and Integration into Other Projects
 
 
 
-Progress
+Progress Log
 =================
 
 
