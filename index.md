@@ -8,5 +8,5 @@ Thingiverse
 Linked In
 ## Projects
 #AMAZ ARM
-#Paper Microfluidics
+[Paper Microfluidics](PaperMicrofluidics.md)
 [3D Printing Soft Robotics](3DPrintedSoftRobots.md)
