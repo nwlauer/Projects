@@ -1,6 +1,6 @@
 Paper Microfluidics
 =====================
-![Paper Microfluidic Picture](https://i.imgur.com/aXYnpVFs.jpg)
+![Paper Microfluidic Picture](https://i.imgur.com/aXYnpVF.jpg)
 Goals and Focus
 =================
 
