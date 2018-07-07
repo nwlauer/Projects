@@ -9,4 +9,4 @@ Linked In
 ## Projects
 #AMAZ ARM
 #Paper Microfluidics
-#3D Printing Soft Robotics
+[3D Printing Soft Robotics](3DPrintedSoftRobots.md)
