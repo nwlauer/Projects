@@ -11,7 +11,7 @@ Outputs
 
 ## Process
 
-Process Guide
+The Process that we found effective is outlined [here](https://www.instructables.com/id/Wax-Paper-Microfluidics/) on instructables.
 
 ## Inscape Design Guidelines
 
