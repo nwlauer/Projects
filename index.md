@@ -3,9 +3,10 @@
 This is the repository for my bigger projects as well as a hub to all my other blogs and social media. 
 ## Social Media
 /[Blog for my smaller day to day work and tinkering](http://nwlauer.tumblr.com/)
-/Instagram
-Thingiverse
-Linked In
+/[Instagram](http://www.instagram.com/nwlauer/)
+/[Thingiverse](http://www.thingiverse.com/nwlauer/designs)
+/[Instructables](http://www.instructables.com/member/nwlauer/)
+/[LinkedIn](http://www.linkedin.com/in/nwilliamlauer/)
 ## Projects
 #AMAZ ARM
 
