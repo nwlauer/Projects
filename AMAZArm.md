@@ -2,7 +2,23 @@
 
 ![Working with Hand Gif](http://i.imgur.com/esLJN8m.gif)
 
+## Goals and Focus
 
+This was a capstone project to develop a prototype and investigate materials selection for a 3d printed prosthetic arm for amputees, being quite broad this project has and will continue to turn in different directions depending on needs and interests. 
+
+
+## Outputs
+Capstone Paper
+
+---------
+
+Protoype ARM
+
+-----------
+
+Code
+
+------------------
 ## Progress Log
 
 ![Generative Design2](http://i.imgur.com/mAoOE3j.jpg)
