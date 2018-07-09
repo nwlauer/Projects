@@ -8,7 +8,7 @@ This is the repository for my bigger projects as well as a hub to all my other b
 /[Instructables](http://www.instructables.com/member/nwlauer/)
 /[LinkedIn](http://www.linkedin.com/in/nwilliamlauer/)
 ## Projects
-#AMAZ ARM
+[AMAZ ARM](AMAZArm.md)
 
 [Paper Microfluidics](PaperMicrofluidics.md)
 
