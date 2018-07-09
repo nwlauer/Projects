@@ -1,6 +1,7 @@
 
 ![Paper Microfluidic Picture](https://i.imgur.com/aXYnpVFs.jpg)
 ![Working with Hand Gif](http://i.imgur.com/esLJN8ms.gif)
+![GIF](https://i.imgur.com/icnJ1S1s.gif)
 
 # Home
 This is the repository for my bigger projects as well as a hub to all my other blogs and social media. 
