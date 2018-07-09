@@ -19,7 +19,7 @@ As the semester is over, all of our do documentation is now available. I am cont
 
 We did this presentation last week with Diana and got a ton of good feedback from industry. I will upload another video shortly as well as a brief on the the suggestions we got and the changes we are making
 
-![Gif with Diana](http://i.imgur.com/HFptLRo.gifv)
+![Gif with Diana](http://i.imgur.com/HFptLRo.gif)
 
 ----------------------
 
@@ -42,7 +42,7 @@ I have added a digital higher torque servo for the thumb but found when plugging
 
 -----------------------
 
-![Working with Hand Gif](http://i.imgur.com/esLJN8m.gifv)
+![Working with Hand Gif](http://i.imgur.com/esLJN8m.gif)
 
 --------------------------
 
