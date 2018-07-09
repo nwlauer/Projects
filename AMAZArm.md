@@ -1,4 +1,8 @@
 # AMAZ Arm
+
+![Working with Hand Gif](http://i.imgur.com/esLJN8m.gif)
+
+
 ## Progress Log
 
 ![Generative Design2](http://i.imgur.com/mAoOE3j.jpg)
