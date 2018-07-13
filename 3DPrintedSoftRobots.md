@@ -12,6 +12,15 @@
   This project revolves mostly around the fabrication of a soft robotic system out of a flexible filament that requires no post       processing after printing.
 
 ### Progress
+
+(July 12, 2018)
+
+I think the main point of leakage at this point is from the interface between the Vinyl tubing and the 3D print, I have confirmed this some by lengthening the entryway for the tubing as seen bellow and had some success as seen, next I would like to work on an adapter and modeling the ribs between the adapter and entry point to be a close fit. The current version of the acutator can be seen [here](https://cad.onshape.com/documents/02b6b1a719bd819477cb40a7/w/13e82c7ddb63d8f5073c5366/e/bbfd169c50e79385daa16018). 
+
+![Gif](http://i.imgur.com/Q6i58dK.gif)
+
+
+
 ![](http://www.flickr.com/photos/148557730@N02/shares/052Hjt)
 Original trials were made to heat the actuators in the oven after printing which while still considered post processing the print is minimal when compared to other techniques(dipping in sealent). Later in printing it was found that this process was unneeded as I was getting reasonably air tight actuators in just increasing the extrustion muliplier (1.5 to 2) depending on printer and filament. I have been able to get away with two perimeters and still create a good acuator, the top and bottom layers have to be a bit more, however this may be a limit of the design having the walls so close together and the slicer having trouble getting good solid infill. 
 ![Messy Robots](https://i.imgur.com/adRVucjm.png)
