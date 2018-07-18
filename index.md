@@ -18,3 +18,5 @@ This is the repository for my bigger projects as well as a hub to all my other b
 [Paper Microfluidics](PaperMicrofluidics.md)
 
 [3D Printing Soft Robotics](3DPrintedSoftRobots.md)
+
+[Soft Robotics Control Unit](SRCU.md)
