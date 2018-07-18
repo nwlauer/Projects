@@ -1,3 +1,5 @@
+[Home](index.md)
+
 # AMAZ Arm
 
 ![Working with Hand Gif](http://i.imgur.com/esLJN8m.gif)
