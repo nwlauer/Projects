@@ -1,3 +1,6 @@
+[Home](index.md)
+
+
 ### 3D Printing Soft Robotics
 ![GIF](https://i.imgur.com/icnJ1S1.gif)
 
