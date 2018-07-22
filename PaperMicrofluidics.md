@@ -26,6 +26,14 @@ The Process that we found effective is outlined [here](https://www.instructables
 
 Progress Log
 =================
+
+Attempts to power the circuit wirelessly was unsuccessful but allot was learned in attenna design along the way.
+
+![Pic](https://i.imgur.com/sBZFZsA.jpg)
+
+------------------------------------------------------------------------
+
+
 After geting functioning chanel we moved to try and integrate the microfluidic with some electronics, the microfluidic was placed in a lickometer circuit so that ounce the fluid traveled through the chanel electrical contact was made with a tranistor allowing an LED to light.
 
 
