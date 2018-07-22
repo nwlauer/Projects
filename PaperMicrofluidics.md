@@ -27,7 +27,7 @@ Progress Log
 
 Attempts to power the circuit wirelessly was unsuccessful but allot was learned in attenna design along the way.
 
-![Pic](https://i.imgur.com/sBZFZsA.jpg)
+![Pic](https://i.imgur.com/sBZFZsAm.jpg)
 
 ------------------------------------------------------------------------
 
