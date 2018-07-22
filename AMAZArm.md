@@ -15,13 +15,6 @@ Capstone Paper
 [PDF](https://github.com/nwlauer/Projects/blob/513c5f12d79567a136687cd4c20961e2bfb86e9e/Final%20Report%20Comment%20Delegations.docx%20(1).pdf)
 ---------
 
-Protoype ARM
-
------------
-
-Code
-
-------------------
 ## Progress Log
 
 ![Generative Design2](http://i.imgur.com/mAoOE3j.jpg)
