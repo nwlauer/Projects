@@ -2,8 +2,7 @@
 
 Paper Microfluidics
 =====================
-![Paper Microfluidic Picture](https://i.imgur.com/aXYnpVFm.jpg)
-![Gif](https://i.imgur.com/FAcz3JJ.gif)
+![Paper Microfluidic Picture](https://i.imgur.com/aXYnpVFm.jpg) ![Gif](https://i.imgur.com/FAcz3JJ.gif)
 
 Goals and Focus
 =================
