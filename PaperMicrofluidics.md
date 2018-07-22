@@ -52,6 +52,7 @@ Success! Finally able to get a functioning channel, we determined that the was p
 When in doubt design of experiments! This is my motto when in the beginning of a project, turning the frustration of failure into a more systematic form of elimination, also helpful to determine whether you are focusing on the wrong thing. We focused on channel thickness and wall thickness.
 
 ![DOE](http://i.imgur.com/P4YcS4m.jpg)
+![Fails](https://i.imgur.com/kKbo2crm.jpg)
 
 ---------------------------------------------------------
 
