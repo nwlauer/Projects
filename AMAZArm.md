@@ -11,7 +11,7 @@ This was a capstone project to develop a prototype and investigate materials sel
 
 ## Outputs
 Capstone Paper
-
+[PDF](https://github.com/nwlauer/Projects/commit/513c5f12d79567a136687cd4c20961e2bfb86e9e#diff-9940689b9e2b1da0f3449b90c3ffe9d8)
 ---------
 
 Protoype ARM
