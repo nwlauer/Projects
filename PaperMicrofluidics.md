@@ -52,13 +52,14 @@ Success! Finally able to get a functioning channel, we determined that the was p
 When in doubt design of experiments! This is my motto when in the beginning of a project, turning the frustration of failure into a more systematic form of elimination, also helpful to determine whether you are focusing on the wrong thing. We focused on channel thickness and wall thickness.
 
 ![DOE](http://i.imgur.com/P4YcS4m.jpg)
-![Fails](https://i.imgur.com/kKbo2crm.jpg)
+
 
 ---------------------------------------------------------
 
 After obtaining the printer, we went off Whitesides’ instructions(https://gmwgroup.harvard.edu/pubs/pdf/1060.pdf) reproducing a similar pattern to that in figure 3. D and E in the paper. The results as seen below were not very successful. Even after trying different “baking times” (in seconds written on the individual patterns) on a 150C kitchen pan, all seemed to have the water leak outside the boundaries. Looking back the main two issues that I believed caused this was too large of a reservoir with walls not thick enough and the the wax not penetrating fully through the paper. 
 
 ![Leaking Resevoirs](http://i.imgur.com/cvV3F5F.jpg)
+![Fails](https://i.imgur.com/kKbo2cr.jpg)
 
 ---------------------------------------------------------
 
