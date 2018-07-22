@@ -2,7 +2,7 @@
 
 # AMAZ Arm
 
-![Working with Hand Gif](http://i.imgur.com/esLJN8m.gif)
+![Working with Hand Gif](Projects/Final Report Comment Delegations.docx (1).pdf)
 
 ## Goals and Focus
 
