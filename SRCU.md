@@ -14,7 +14,7 @@ While I am waiting for some parts to come in the following is pictures of the or
 
 ![Old Design 1](https://i.imgur.com/WrXzpnN.jpg)
 
-![Old Design 2](https://i.imgur.com/XxjfMc5.jpg)
+![Old Design 2](https://i.imgur.com/XvWX0XC.jpg)
 
 
 ---------------------------------------------
