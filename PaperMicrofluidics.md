@@ -25,6 +25,14 @@ The Process that we found effective is outlined [here](https://www.instructables
 
 Progress Log
 =================
+After geting functioning chanel we moved to try and integrate the microfluidic with some electronics, the microfluidic was placed in a lickometer circuit so that ounce the fluid traveled through the chanel electrical contact was made with a tranistor allowing an LED to light.
+
+
+![Circuit](https://i.imgur.com/fxEbNYm.jpg)
+
+![Gif](https://i.imgur.com/FAcz3JJ.gif)
+
+---------------------------------------------------------------------------------------
 Success! Finally able to get a functioning channel, we determined that the was penetration through the paper was limited when heating(We have switched to a laminator instead of stove top heating) to combat this we printed on both sides of the paper effectively Halfling the distance it needed to travel.
 
 
