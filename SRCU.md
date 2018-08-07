@@ -1,4 +1,4 @@
-[Home](Index.md)
+[Home](index.md)
 
 ## Goals and Focus 
 
