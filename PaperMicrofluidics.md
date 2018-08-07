@@ -7,7 +7,7 @@ Paper Microfluidics
 Goals and Focus
 =================
 
-The goal this project was to replicate and improve upon the process for makine paper microfluidics put forth in [this paper by whitesides](https://gmwgroup.harvard.edu/pubs/pdf/1060.pdf). 
+The goal this project was to replicate and improve upon the process for making paper microfluidics put forth in [this paper by whitesides](https://gmwgroup.harvard.edu/pubs/pdf/1060.pdf). 
 
 Outputs
 =============
@@ -25,14 +25,14 @@ The Process that we found effective is outlined [here](https://www.instructables
 Progress Log
 =================
 
-Attempts to power the circuit wirelessly was unsuccessful but allot was learned in attenna design along the way.
+Attempts to power the circuit wirelessly was unsuccessful but allot was learned in antenna design along the way.
 
 ![Pic](https://i.imgur.com/sBZFZsAm.jpg)
 
 ------------------------------------------------------------------------
 
 
-After geting functioning chanel we moved to try and integrate the microfluidic with some electronics, the microfluidic was placed in a lickometer circuit so that ounce the fluid traveled through the chanel electrical contact was made with a tranistor allowing an LED to light.
+After getting functioning channel we moved to try and integrate the microfluidic with some electronics, the microfluidic was placed in a lickometer circuit so that ounce the fluid traveled through the channel electrical contact was made with a transistor allowing an LED to light.
 
 
 ![Circuit](https://i.imgur.com/fxEbNYmm.jpg)
@@ -40,7 +40,7 @@ After geting functioning chanel we moved to try and integrate the microfluidic w
 ![Gif](https://i.imgur.com/FAcz3JJ.gif)
 
 ---------------------------------------------------------------------------------------
-Success! Finally able to get a functioning channel, we determined that the was penetration through the paper was limited when heating(We have switched to a laminator instead of stove top heating) to combat this we printed on both sides of the paper effectively Halfling the distance it needed to travel.
+Success! Finally able to get a functioning channel, we determined that the was penetration through the paper was limited when heating (We have switched to a laminator instead of stove top heating) to combat this we printed on both sides of the paper effectively Halfling the distance it needed to travel.
 
 
 ![Success](http://i.imgur.com/J7JiPram.jpg)
@@ -56,9 +56,9 @@ When in doubt design of experiments! This is my motto when in the beginning of a
 
 ---------------------------------------------------------
 
-After obtaining the printer, we went off Whitesides’ instructions(https://gmwgroup.harvard.edu/pubs/pdf/1060.pdf) reproducing a similar pattern to that in figure 3. D and E in the paper. The results as seen below were not very successful. Even after trying different “baking times” (in seconds written on the individual patterns) on a 150C kitchen pan, all seemed to have the water leak outside the boundaries. Looking back the main two issues that I believed caused this was too large of a reservoir with walls not thick enough and the the wax not penetrating fully through the paper. 
+After obtaining the printer, we went off Whitesides’ instructions(https://gmwgroup.harvard.edu/pubs/pdf/1060.pdf) reproducing a similar pattern to that in figure 3. D and E in the paper. The results as seen below were not very successful. Even after trying different “baking times” (in seconds written on the individual patterns) on a 150C kitchen pan, all seemed to have the water leak outside the boundaries. Looking back the main two issues that I believed caused this was too large of a reservoir with walls not thick enough and the wax not penetrating fully through the paper. 
 
-![Leaking Resevoirs](http://i.imgur.com/cvV3F5F.jpg)
+![Leaking Reservoirs](http://i.imgur.com/cvV3F5F.jpg)
 ![Fails](https://i.imgur.com/kKbo2cr.jpg)
 
 ---------------------------------------------------------
