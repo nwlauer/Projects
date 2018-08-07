@@ -16,21 +16,44 @@
 
 ### Progress
 
+(August 6th, 2018)
+
+I am currently working on an enclosure for my printer which has delayed this project progress slightly, but I wanted to detail some of the design parameters that have worked so far as well as some of my plans for testing in the future. 
+
+The main parameter I have become confident in is the wall thickness which is 2 perimeters optimally roughly with a roughly .45 millimeter, as far as top and bottom thickness between 4 and 6 layers of .2 mm work well, less leads to holes still present in the top surface which air can escape and more leads to a much stiffer actuator that won’t extend well. Channel thickness is something I would still like to experiment with more especially with different designs. For the most part I use around 1.2 mm for the design however the actual thickness is closer to 1mm because of the over extrusion in the sidewalls. 
+
+Below are some pictures of the settings I used in Simplify3D for the actual configurations feel free to contact me, however I think there are not useful for anything other than reference because of the sensitivity of the process and the variability between printers with extrusion, actual layer height, extruder design, etc..
+
+![Process Settings 1](https://i.imgur.com/ApkCcYH.png)
+
+![Process Settings 2](https://i.imgur.com/RiTiFwb.png)
+
+I would like to cover the following going forward
+
+1. New design (pneunet approach)
+
+2. Design of experiments with channel thickness 
+
+3. Simulations with SOFA Framework
+
+----------------------------------------------------------------------------------
+
 (July 12, 2018)
 
-I think the main point of leakage at this point is from the interface between the Vinyl tubing and the 3D print, I have confirmed this some by lengthening the entryway for the tubing as seen bellow and had some success as seen, next I would like to work on an adapter and modeling the ribs between the adapter and entry point to be a close fit. The current version of the acutator can be seen [here](https://cad.onshape.com/documents/02b6b1a719bd819477cb40a7/w/13e82c7ddb63d8f5073c5366/e/bbfd169c50e79385daa16018). 
+I think the main point of leakage at this point is from the interface between the Vinyl tubing and the 3D print, I have confirmed this some by lengthening the entryway for the tubing as seen bellow and had some success as seen, next I would like to work on an adapter and modeling the ribs between the adapter and entry point to be a close fit. The current version of the actuator can be seen [here](https://cad.onshape.com/documents/02b6b1a719bd819477cb40a7/w/13e82c7ddb63d8f5073c5366/e/bbfd169c50e79385daa16018). 
 
 ![Gif](http://i.imgur.com/Q6i58dK.gif)
 
 ------------------------------------------------------------------------------------------------
 
 ![](http://www.flickr.com/photos/148557730@N02/shares/052Hjt)
-Original trials were made to heat the actuators in the oven after printing which while still considered post processing the print is minimal when compared to other techniques(dipping in sealent). Later in printing it was found that this process was unneeded as I was getting reasonably air tight actuators in just increasing the extrustion muliplier (1.5 to 2) depending on printer and filament. I have been able to get away with two perimeters and still create a good acuator, the top and bottom layers have to be a bit more, however this may be a limit of the design having the walls so close together and the slicer having trouble getting good solid infill. 
+Original trials were made to heat the actuators in the oven after printing which while still considered post processing the print is minimal when compared to other techniques (dipping in sealant). Later in printing it was found that this process was unneeded as I was getting reasonably air tight actuators in just increasing the extrusion multiplier (1.5 to 2) depending on printer and filament. I have been able to get away with two perimeters and still create a good actuator, the top and bottom layers must be a bit more, however this may be a limit of the design having the walls so close together and the slicer having trouble getting good solid infill. 
 ![Messy Robots](https://i.imgur.com/adRVucjm.png)
+
 
 ---------------------------------------------------------------------
 (August 2017)
-I recently just finished a 3D Printed biomimetic flower.The main purpose of this project was to get more familiar with the capabilities of straight 3D Printed pneumatic artificial muscles. While much has been done as far as 3D printing the molds and casting the muscles in silicon or some other curing elastomer not much has been done on direct 3D printing of them. Ultimately I think there is a ways to go but direct Manufacturing the parts instead of the mold had its benefits(One solid piece, more detail and control, and ease of the process itself). Currently it seems to be limited as far as FDM printers because of the inevitable micro holes in the final print, the way this was solved by mikey77(See link in credit) using flexible sealant, while this still introduces an additional step in manufacturing I think it is better then molding in its simplicity. I still want to attempt to solve these holes by baking the printed parts hopefully allowing flow and closure of the micro-holes. Further work has been done by different people but none with results that I am seeking.
+I recently just finished a 3D Printed biomimetic flower. The main purpose of this project was to get more familiar with the capabilities of straight 3D Printed pneumatic artificial muscles. While much has been done as far as 3D printing the molds and casting the muscles in silicon or some other curing elastomer not much has been done on direct 3D printing of them. Ultimately, I think there is a ways to go but direct Manufacturing the parts instead of the mold had its benefits (One solid piece, more detail and control, and ease of the process itself). Currently it seems to be limited as far as FDM printers because of the inevitable micro holes in the final print, the way this was solved by mikey77(See link in credit) using flexible sealant, while this still introduces an additional step in manufacturing I think it is better than molding in its simplicity. I still want to attempt to solve these holes by baking the printed parts hopefully allowing flow and closure of the micro-holes. Further work has been done by different people but none with results that I am seeking.
 
 
 [Flower](https://imgur.com/EfdkGky)
