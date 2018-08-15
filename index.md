@@ -3,7 +3,7 @@
 ![Working with Hand Gif](http://i.imgur.com/esLJN8ms.gif)
 ![GIF](https://i.imgur.com/icnJ1S1s.gif)
 ![Generative Design2](http://i.imgur.com/mAoOE3js.jpg)
-![Prague Makerfaire](http://i.imgur.com/a8jfCj6l.jpg)
+![Prague Makerfaire](http://i.imgur.com/a8jfCj6s.jpg)
 
 # Home
 This is the repository for my bigger projects as well as a hub to all my other blogs and social media. 
