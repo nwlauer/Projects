@@ -1,4 +1,4 @@
- [Home](Index.md)
+ [Home](index.md)
  
  Topic: 3D Printing Soft Robotics
  
