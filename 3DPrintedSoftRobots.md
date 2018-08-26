@@ -16,6 +16,22 @@
 
 ### Progress
 
+(August 26th, 2018)
+
+I got ahold of a larger diaphragm pump that should be able to provide the pressure I need to cause maximum deflection or at least more deflection then I have been getting with the peristaltic pumps. The pump is made for larger tubing and doesn't fit the actuators so I had to model an adapter, I chose to make it parametric so I can change it to connect different sized tubing in the future if I need to and put the design on thingiverse. 
+
+Thingiverse Link
+
+[ThingiverseLink](http://www.thingiverse.com/thing:3069449)
+
+On-Shape Link to Customizable Adapter: 
+
+
+[OnshapeLink](http://cad.onshape.com/documents/9ce4cfa03e624a2dd4b5f2d3/w/101f37edd98fbd5f7c71c180/e/683bc8de0e68daec63e576c4)
+
+
+----------------------------------------------------------------------------
+
 (August 6th, 2018)
 
 I am currently working on an enclosure for my printer which has delayed this project progress slightly, but I wanted to detail some of the design parameters that have worked so far as well as some of my plans for testing in the future. 
