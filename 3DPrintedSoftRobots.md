@@ -16,6 +16,24 @@
 
 ### Progress
 
+(Sept. 10th, 2018)
+
+After attempting to print the adapter described in the previous post, I was unable to get a quality print with a center hole even at .1 mm layer height, while I could try a smaller nozzle and possible achieve success I decided to go back to the drawing board and try a different approach and a more simple one at that. Instead of an external adapter I decided on an internal adapter that fits completely in the larger tube and around the smaller one. This eliminates the issues of trying to print small enough to insert into the 1/8" ID on the inner tube, instead the limiting dimension on this design is the outer diameter of the smaller tube. This design also allows for faster new iterations adjusting the tolerances because of the simply design. 
+
+After a moderately embarrassingly mistake where I used the diameter dimension instead of the radius when revolving the part, I got a functional adapter seen below. This worked however testing it on the diaphragm pump with the soft robot turned out to come close to stalling the pump and unfortunately my power supply tops out at a bit over 1 and a half amps. 
+
+
+![Tubing](http://i.imgur.com/sgQUVL8.jpg)
+
+Links:
+
+[Thingiverse](https://www.thingiverse.com/thing:3095760)
+[On-Shape](https://cad.onshape.com/documents/92cfda232b528470463f2aaa/w/1ba712666e28d8060b0fa5f9/e/f20b0e49f8c2d650ff1c5602)
+
+Later however I realized I have a bicycle pump which I thought might be worth a try and it worked great. I will now add a electronic piston to the list of sub projects to run the robot. 
+
+---------------------------------------------------------------------------------
+
 (August 26th, 2018)
 
 I got ahold of a larger diaphragm pump that should be able to provide the pressure I need to cause maximum deflection or at least more deflection then I have been getting with the peristaltic pumps. The pump is made for larger tubing and doesn't fit the actuators so I had to model an adapter, I chose to make it parametric so I can change it to connect different sized tubing in the future if I need to and put the design on thingiverse. 
