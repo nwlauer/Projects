@@ -16,6 +16,37 @@
 
 ### Progress
 
+(Sept. 18th, 2018)
+
+I worked a bit on a new actuator design for a eventual soft robotic worm design I am working on. The design was a pillow type actuator as seen below. 
+
+[Onshape Design](https://cad.onshape.com/documents/3c669edf96e152dec33955a7/w/b0888245c5fd9d2512150394/e/fc91afc5c4801dd98c8136da)
+
+The first print failed due to the flexible filament not being able to bridge the distance across the actuator. This print did however show a strong bottom layer. 
+
+![FirstTry](https://i.imgur.com/ZGPEAIE.jpg)
+
+![FirstTry2](https://i.imgur.com/a67Lr7A.jpg)
+
+Instead of dialing in speeds and temperature to possibly allow the required bridging, I moved forward to the next design which split the actuator into two halves and also adjusted the size of the tubing hole as the previous version was a bit too small. The resulting design and print is seen below.
+
+
+![SecondTry1](https://i.imgur.com/l3kidNH.jpg)
+
+
+![SecondTry2](https://i.imgur.com/XGx8kjQ.jpg)
+
+
+The print failed much like the one before but to a lesser extent. The higher temperature resulted in some more heavy stringing however this stinging makes me think that maybe running the top layer at travel speeds might produce better results, never the less I think adding two additional layers on top should produce a airtight top. 
+
+After seeing the failed prints before which were just the bottom layer, I had the idea of trying to take those and weld them to the top of the actuator to possibly make a functioning one. I used a soldering iron to melt around the circumference of the top and it seemed to work as seen below. The center separator was a bit hard to weld but I am not sure of the wall's ability to hold air itself, I will try making it thicker in future iterations. 
+
+
+![WeldedActuator](https://i.imgur.com/xdRByIV.jpg)
+
+
+ASIDE: During the printing of the second actuator the printer stopped extruding at a usual layer height that it has done before with other actuators. I had previously never found a definite fix for this, however thinking about the repeatability, it seemed to happen when it started printing the perimeter layers and I figured a possible mode of failure was speed and the hot end not being able to keep up with the amount of material being extruded, I tested this by increasing the temperature and lowering the speed slightly, this seemed to work, but time will tell weather this is a solid fix for this problem or just a fluke. 
+
 (Sept. 10th, 2018)
 
 After attempting to print the adapter described in the previous post, I was unable to get a quality print with a center hole even at .1 mm layer height, while I could try a smaller nozzle and possible achieve success I decided to go back to the drawing board and try a different approach and a more simple one at that. Instead of an external adapter I decided on an internal adapter that fits completely in the larger tube and around the smaller one. This eliminates the issues of trying to print small enough to insert into the 1/8" ID on the inner tube, instead the limiting dimension on this design is the outer diameter of the smaller tube. This design also allows for faster new iterations adjusting the tolerances because of the simply design. 
