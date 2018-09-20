@@ -13,6 +13,7 @@ This is the repository for my bigger projects as well as a hub to all my other b
 /[Thingiverse](http://www.thingiverse.com/nwlauer/designs)
 /[Instructables](http://www.instructables.com/member/nwlauer/)
 /[LinkedIn](http://www.linkedin.com/in/nwilliamlauer/)
+
 Email: nwilliamlauer@gmail.com
 ## Projects
 [AMAZ ARM](AMAZArm.md)
