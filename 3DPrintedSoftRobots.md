@@ -13,8 +13,30 @@
   
 ### Goal and Focus
   This project revolves mostly around the fabrication of a soft robotic system out of a flexible filament that requires no post       processing after printing.
+  
+## BOM
+
 
 ### Progress
+
+(Jan. 15th, 2018)
+
+It have been a while since I did an update, quite a bit has happend.
+
+I decided to stick with the soldering iron method of creating the accuator for prototyping, in the future if it works I would like to work on creating a tool to do this with a geometry to melt the the specific locations of the accuator. 
+
+Working on better seetings for the top portion I found that while the rectilinear infil had the tendency to have gaps seen below, even when the outline overlap setting was increased. WHen doing infill there is a minium line length for filling the part, default for my printer in simplify 3d was 2 mm so as a result of the circular geometry there is a line length less then 2 mm at the edges of the circal, the obvious solution would be to decrease this number until you get a solid infill, however I found a better solution to be switching to a concentric infill which elimates the issue at the edge of the circle and moves it to the center where the concentric circal to fill the center has a cicumference less then 2mm, however I found that since I was over extruding and had the nozzle down further then normal it would completely fill in the center. 
+
+A new issue however arrised when the print finished an a blob would be left in the center and the nozzle would smear over the top of the part when returing to its home postion. I solved this adding some gcode to the end script to retract some and lift the z 10 mm. THe results are shown bellow.
+
+
+I used loctite flexible adhesive to bond together the accuators. I only realized after that the location of the adheared portion should be closser to the center of the actuator so there can be the mamium amount of movement upon actuation.
+
+
+
+Additionally I got two mini pumps from ebay, they are parker BLDC diaphargm pumps with feedback. Unfortuatley I acccidently shorted out one hooking it up to the power supply since I was using exposed alligator clips, I am now only using the covered type to avoid this again. I have a metro express board and some circuit python code to feed a PWM signal to the speed control pin on the motor but want to wait until I order another one before I try it so I always have one working in reserve.
+
+Next I want to design a manifold and order some solenoid valves for control.
 
 (Sept. 18th, 2018)
 
