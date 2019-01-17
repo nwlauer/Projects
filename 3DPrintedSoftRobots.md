@@ -12,9 +12,68 @@
  /
   
 ### Goal and Focus
-  This project revolves mostly around the fabrication of a soft robotic system out of a flexible filament that requires no post       processing after printing.
+  This project revolves mostly around the fabrication of a soft robotic system out of a flexible filament that requires no post processing after printing. Additionally, a new design is constructed for a worm-like robot and accompanying control system. 
+  
 
 ### Progress
+
+(Jan. 15th, 2018)
+
+It has been a while since I did an update, quite a bit has happened.
+
+I decided to stick with the soldering iron method of creating the actuator for prototyping, in the future if it works I would like to work on creating a tool to do this with geometry to melt the specific locations of the actuator. 
+
+Working on better settings for the top portion I found that while the rectilinear infill had the tendency to have gaps seen below, even when the outline overlap setting was increased. 
+
+![Rect](https://i.imgur.com/AmHFtAim.jpg)
+
+When doing infill there is a minimum line length for filling the part, the default for my printer in simplify3d was 2 mm. The circular geometry there is a line length less than 2 mm at the edges of the circle, the obvious solution would be to decrease this number until you get a solid infill. I, however, I found a better solution to be switching to a concentric infill which eliminates the issue at the edge of the circle and moves it to the center where the concentric circle to fill the center has a circumference less than 2mm, however I found that since I was over extruding and had the nozzle down further than normal it would completely fill in the center. The results of this change are bellow.
+
+![Conc](https://i.imgur.com/vUx0eV7l.jpg)
+ 
+
+A new issue arises when the print finished, and a blob would be left in the center and the nozzle would smear over the top of the part when returning to its home position. I solved this adding some code to the end script to retract some and lift the z 10 mm. 
+
+```
+G92 E0 ; reset extruder distance
+G1 E-1 F500 ; Retract 1 mm
+G92 Z0 ; Relative Position Z
+G1 Z10 ; Raise Z 10 mm
+```
+
+I have included my FFF process settings in the project folder for reference.
+
+
+I used Loctite flexible adhesive to bond together the actuators. I only realized after that the location of the adhered portion should be closer to the center of the actuator so there can be the maximum amount of movement upon actuation.
+
+![PartialBuild](https://i.imgur.com/7tgr2Ull.jpg)
+
+
+
+Additionally, I got two mini pumps from eBay, they are parker BLDC diaphragm pumps with feedback. Unfortunately, I accidentally shorted out one hooking it up to the power supply since I was using exposed alligator clips, I am now only using the covered type to avoid this again. I have a metro express board and some circuit python code to feed a PWM signal to the speed control pin on the motor but want to wait until I order another one before I try it, so I always have one working in reserve.
+
+```
+import board
+import pulseio
+from analogio import AnalogIn
+
+analog_in = AnalogIn(board.A1) #Initialize AnalogIn
+ 
+def duty_cycle_value(pin): #Get data from potentiometer
+    return pin.value
+
+pump = pulseio.PWMOut(board.D13, frequency=15000, duty_cycle=0) # Initialize Pump PWM. Frequency from pump data sheet
+
+while True:
+    pump.duty_cycle = duty_cycle_value(analog_in) # Loop PWM signal with duty cycle defined by pot value
+```
+    
+
+
+
+Next, I want to design a manifold and order some solenoid valves for control.
+
+ 
 
 (Sept. 18th, 2018)
 
@@ -68,7 +127,7 @@ Later however I realized I have a bicycle pump which I thought might be worth a 
 
 (August 26th, 2018)
 
-I got ahold of a larger diaphragm pump that should be able to provide the pressure I need to cause maximum deflection or at least more deflection then I have been getting with the peristaltic pumps. The pump is made for larger tubing and doesn't fit the actuators so I had to model an adapter, I chose to make it parametric so I can change it to connect different sized tubing in the future if I need to and put the design on thingiverse. 
+I got hold of a larger diaphragm pump that should be able to provide the pressure I need to cause maximum deflection or at least more deflection then I have been getting with the peristaltic pumps. The pump is made for larger tubing and doesn't fit the actuators so I had to model an adapter, I chose to make it parametric so I can change it to connect different sized tubing in the future if I need to and put the design on thingiverse. 
 
 Thingiverse Link
 
