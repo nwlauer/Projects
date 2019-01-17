@@ -7,7 +7,7 @@ Paper Microfluidics
 Goals and Focus
 =================
 
-The goal this project was to replicate and improve upon the process for making paper microfluidics put forth in [this paper by whitesides](https://gmwgroup.harvard.edu/pubs/pdf/1060.pdf). 
+The goal of this project was to replicate and improve upon the process for making paper microfluidics put forth in [this paper by whitesides](https://gmwgroup.harvard.edu/pubs/pdf/1060.pdf). 
 
 Outputs
 =============
